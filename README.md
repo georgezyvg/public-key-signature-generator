@@ -34,7 +34,7 @@ python# Number of signatures to generate
 NUM_SIGS = 10  # Adjust as needed
 
 Run the script:
-python generate_signatures.py
+python3 pubkey-gen.py
 
 The output will show:
 
