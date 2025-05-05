@@ -1,4 +1,4 @@
-# Public Key Signature Generator
+# ECDSA SECP256k1 Public Key Only Signature Generator
 
 Generate valid ECDSA signatures using only public key information.
 
