@@ -5,7 +5,7 @@ from random import SystemRandom
 
 # Provide public key coordinates in decimal
 X = 1234567890
-Y = 0987654321
+Y = 61770026510604113021686089777374557608174938587526483912023179154647723408296
 Q = (X, Y)
 
 # Number of signatures to generate
