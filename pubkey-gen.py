@@ -20,7 +20,7 @@ def generate_signatures():
     print(f"Qy: 0x{Y:064x}")
     print("-" * 70)
     
-    for i in range(NUM_SIGNATURES):
+    for i in range(NUMBER_SIGNATURES):
         # Generaterandom scalars
         u1 = SystemRandom().randrange(1, N)
         u2 = SystemRandom().randrange(1, N)
